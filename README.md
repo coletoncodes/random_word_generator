@@ -8,7 +8,7 @@
 
 This application uses the [English Words](https://pub.dev/packages/english_words) package, and takes two random words and puts them together in [Pascal Case](https://www.theserverside.com/definition/Pascal-case).
 
-BROKEN WORKING ON FIX**You can preview the app [here](https://coletoncodes.github.io/random_word_generator).**
+**You can preview the app [here](https://coletoncodes.github.io/#/).**
 
  This will open up a browser version of the application.
 
