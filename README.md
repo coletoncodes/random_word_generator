@@ -1,14 +1,9 @@
 
-- [What It Does](#what-it-does)
-- [What I Learned](#what-i-learned)
-    - [Features & Ideas For The Future](#features--ideas-for-the-future)
-- [Contact Me](#contact-me)
-
 # What It Does
 
 This application uses the [English Words](https://pub.dev/packages/english_words) package, and takes two random words and puts them together in [Pascal Case](https://www.theserverside.com/definition/Pascal-case).
 
-**You can preview the app [here](https://coletoncodes.github.io/RandomWordGenerator/).**
+**You can preview the app [here](https://coletoncodes-wordpair.web.app).**
 
  This will open up a browser version of the application.
 
